@@ -1,0 +1,1 @@
+python train.py --dataset torch/cifar10 --dataset-download --data-dir cifar10
